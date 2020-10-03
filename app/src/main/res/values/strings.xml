@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkingUdacityLastProject</string>
+    <string name="no_internet">"No Internet connection, please check it "</string>
+    <string name="no_news">Sorry, there is no news</string>
+</resources>
